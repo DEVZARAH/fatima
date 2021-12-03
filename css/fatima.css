@@ -21,3 +21,22 @@ footer{
 p {
     text-align: left;
 }
+a{ 
+    color:yellowgreen;
+}
+.differ{
+    color: violet;
+    background-color: rgb(133, 9, 9);
+    font-size: larger;
+}
+.special{
+    color: chocolate;
+    background-color: darkgoldenrod;
+}
+#y01{
+    color: black;
+}
+.tale{
+    color: cornflowerblue;
+    background-color: darkgreen;
+}
